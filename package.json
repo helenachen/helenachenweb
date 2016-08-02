@@ -1,0 +1,29 @@
+{
+  "name": "helenachen",
+  "version": "1.0.0",
+  "description": "A personal website for Helena Chen",
+  "engines": {
+    "node": "4.4.7"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenachen/helenachenweb.git"
+  },
+  "keywords": [
+    "helenachen"
+  ],
+  "author": "helenachen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenachen/helenachenweb/issues"
+  },
+  "homepage": "https://github.com/helenachen/helenachenweb#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
