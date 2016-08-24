@@ -12,7 +12,7 @@ ul.topnav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #E3E3E3;
 }
 
 ul.topnav li {float: left;}
@@ -27,6 +27,6 @@ ul.topnav li a {
   font-size: 17px;
 }
 
-ul.topnav li a:hover {background-color: #555;}
+ul.topnav li a:hover {background-color: #C4C4C4;}
 
 ul.topnav li.icon {display: none;}
