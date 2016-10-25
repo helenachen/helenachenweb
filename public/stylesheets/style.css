@@ -72,6 +72,15 @@ img.fitted {
     display: block;
 }
 
+img.artwork {
+	position: relative;
+	max-width: 50%;
+	max-height: 50%;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
 img.center {
     display: block;
     margin: auto;
