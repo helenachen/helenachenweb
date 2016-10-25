@@ -25,6 +25,7 @@ div.three {
 }
 
 div.four {
+	display: table-cell;
 	color: #333;
 	font-family: 'Cormorant Garamond', serif;
 	font-size: 20px;
