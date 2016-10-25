@@ -11,22 +11,17 @@
 
   <img src="resume.jpeg" alt="Helena Chen Resume">
 
-  <!--
-  <object data="sample.pdf" type="application/pdf" width="300" height="200">
-    alt : <a href="sample.pdf">sample.pdf</a>
-  </object>
-  -->
-
   <script src="http://code.jquery.com/jquery-latest.js"></script>
   <script type="text/javascript" language="JavaScript">
-  function set_body_height() { // set body height = window height
-    $('body').height($(window).height());
-  }
-  $(document).ready(function() {
-    $(window).bind('resize', set_body_height);
-    set_body_height();
-  });
-</script>
+    function set_body_height() { // set body height = window height
+      $('body').height($(window).height());
+    }
+    $(document).ready(function() {
+      $(window).bind('resize', set_body_height);
+      set_body_height();
+    });
+  </script>
+  <script src="index.js"></script>
 
 </body>
 
