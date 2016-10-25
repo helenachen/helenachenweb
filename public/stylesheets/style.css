@@ -12,12 +12,12 @@ h1 {
     margin: 0;
 }
 
-div.fit {
+img.fit {
     max-width: 100%;
     max-height: 100%;
 }
 
-div.center {
+img.center {
     display: block;
     margin: auto;
 }
