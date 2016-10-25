@@ -35,6 +35,12 @@ div.four {
 	padding-bottom: 15px;
 }
 
+div.caption {
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+}
+
 a {
 	color: #4d4d4d;
 	font-family: 'Oswald', sans-serif;
