@@ -16,10 +16,6 @@ body {
   vertical-align: middle;
 }
 
-h1 {
-	font: 80px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
 img.fitted {
 	position: relative;
     max-width: 80%;
