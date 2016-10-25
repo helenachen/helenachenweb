@@ -85,3 +85,12 @@ img.center {
     display: block;
     margin: auto;
 }
+
+table {
+	width: 100%;
+}
+
+td {
+	padding: 15px;
+	text-align: center;
+}
