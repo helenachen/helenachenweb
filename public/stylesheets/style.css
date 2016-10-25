@@ -17,13 +17,6 @@ div.two {
   text-align: center;
 }
 
-div.three {
-	color: #333;
-	font-family: 'Cormorant Garamond', serif;
-	font-size: 20px;
-	text-align: center;
-}
-
 a {
 	color: #4d4d4d;
 	font-family: 'Oswald', sans-serif;
@@ -36,6 +29,14 @@ a {
 a:hover {
 	background-color: #f2f2f2;
     text-decoration: none;
+}
+
+
+a.email {
+	color: #333;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	text-align: center;
 }
 
 img.fitted {
