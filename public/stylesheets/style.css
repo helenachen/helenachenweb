@@ -15,9 +15,15 @@ div.two {
   text-align: center;
 }
 
-a.nav {
+a {
+	color: #333;
+	text-decoration: none;
 	padding-left: 5px;
 	padding-right: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 img.fitted {
