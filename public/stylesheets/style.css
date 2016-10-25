@@ -2,6 +2,10 @@ head {
 	text-align: center;
 }
 
+span {
+	vertical-align: middle;
+}
+
 div.one {
 	/*font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;*/
 	color: #333;
