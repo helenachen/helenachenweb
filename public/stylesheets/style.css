@@ -1,8 +1,13 @@
+head {
+	text-align: center;
+}
+
 body {
   padding: 0;
   height: 100%;
   margin: 0;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: Baskerville, “Baskerville Old Face”, “Hoefler Text”, Garamond, “Times New Roman”, serif;
+  font-size: 30px;
   vertical-align: middle;
 }
 
