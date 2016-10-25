@@ -13,12 +13,12 @@
 
   <script src="http://code.jquery.com/jquery-latest.js"></script>
   <script type="text/javascript" language="JavaScript">
-    function set_body_height() { // set body height = window height
-      $('body').height($(window).height());
+    function set_body_width() {
+      $('body').width($(window).width());
     }
     $(document).ready(function() {
-      $(window).bind('resize', set_body_height);
-      set_body_height();
+      $(window).bind('resize', set_body_width);
+      set_body_width();
     });
   </script>
   <script src="index.js"></script>
