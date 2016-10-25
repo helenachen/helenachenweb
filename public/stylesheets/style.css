@@ -2,7 +2,7 @@ head {
 	text-align: center;
 }
 
-h1 {
+div.one {
 	/*font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;*/
 	font-family: 'Playfair Display', serif;
 	font-size: 100px;
