@@ -11,7 +11,7 @@ body {
   padding: 0;
   height: 100%;
   margin: 0;
-  font-family: Baskerville, “Baskerville Old Face”, “Hoefler Text”, Garamond, “Times New Roman”, serif;
+  font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
   font-size: 15px;
   vertical-align: middle;
 }
