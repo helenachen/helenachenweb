@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  vertical-align: middle;
 }
 
 h1 {
