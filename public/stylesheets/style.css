@@ -2,12 +2,6 @@ head {
 	text-align: center;
 }
 
-div.mydiv {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-}
-
 div.one {
 	/*font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;*/
 	color: #333;
