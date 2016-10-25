@@ -4,15 +4,15 @@ head {
 
 div.one {
 	/*font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;*/
-	font-family: 'Cardo', serif;
-	font-size: 100px;
+	font-family: 'Neuton', serif;
+	font-size: 70px;
 }
 
 div.two {
   padding: 0;
   height: 100%;
   margin: 0;
-  font-family: 'Cardo', serif;
+  font-family: 'Neuton', serif;
   font-size: 30px;
   vertical-align: middle;
 }
